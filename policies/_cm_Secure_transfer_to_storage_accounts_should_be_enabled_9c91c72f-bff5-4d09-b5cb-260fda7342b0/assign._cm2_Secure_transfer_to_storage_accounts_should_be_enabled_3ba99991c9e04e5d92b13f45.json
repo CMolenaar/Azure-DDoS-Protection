@@ -1,0 +1,25 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "[cm2] Secure transfer to storage accounts should be enabled",
+  "policyDefinitionId": "/subscriptions/3cf5f306-c66b-4648-9a3c-b00ac24c9a9a/providers/Microsoft.Authorization/policyDefinitions/9c91c72f-bff5-4d09-b5cb-260fda7342b0",
+  "scope": "/subscriptions/3cf5f306-c66b-4648-9a3c-b00ac24c9a9a",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "charlie Molenaar",
+   "parameterScopes": {},
+   "createdBy": "0ffe431a-e5d8-4cb4-920c-10ba69dc3a3f",
+   "createdOn": "2021-04-20T11:25:10.0526168Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/3cf5f306-c66b-4648-9a3c-b00ac24c9a9a/providers/Microsoft.Authorization/policyAssignments/3ba99991c9e04e5d92b13f45",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "3ba99991c9e04e5d92b13f45"
+}
